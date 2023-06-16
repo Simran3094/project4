@@ -1,0 +1,184 @@
+.icn{
+    font-size: 30px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 2px 10px;
+    padding: 25px 80px;
+    position: sticky;
+    top: 2px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    transition: 0.3s;
+}
+a:hover {
+    color: rgb(97, 97, 221);
+   
+}
+.main{
+    height: 622px;
+    width: 100%;
+}
+.main1{
+    padding-top: 130px;
+}
+.row1{
+    color: rgb(60, 157, 125);
+    font-weight: 600;
+}
+.row2{
+    color: rgb(125, 123, 123);
+}
+.button{
+    border: 0;
+    background-color: transparent;
+    color:  rgb(60, 157, 125);
+    padding: 18px 80px 15px 60px;
+    cursor: pointer;
+    font-size: 25px;
+}
+.delivery{
+    font-size: 100px;
+}
+.row3{
+    background-color: rgb(90, 199, 163);
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    margin-left: 60px;
+    padding-top: 2px;
+    margin-top: 5px;
+}
+.main3{
+    font-weight: 500;
+}
+.collection{
+    font-size: 20px;
+    text-align: center;
+    color: grey;
+}
+.str{
+    color: rgb(242, 189, 92);
+}
+.crt{
+    color: rgb(242, 189, 92);
+    font-size: 30px;
+}
+.crsr{
+    cursor: pointer;
+}
+.deals{
+    height: 400px;
+    width: 600px;
+    padding: 60px;
+    color: white;
+}
+.deals1{
+    height: 400px;
+    width: 600px;
+    padding: 60px;
+    color: white;
+}
+.rw{
+    height: 600px;
+    width: 100%;
+}
+.sale{
+    padding-top: 50px;
+    padding-left: 20px;
+    color: rgb(171, 61, 61);
+    font-weight: bold;
+}
+.sle{
+    color: rgb(171, 61, 61);
+    padding-left: 20px;
+}
+.bod{
+    width: 100%;
+    height: 240px;
+    background-color: rgb(3, 3, 72);
+    margin-top: 100px;
+}
+.sign{
+    padding-top: 40px;
+    padding-left: 40px;
+    color: white;
+}
+.get{
+    padding-left: 40px;
+    color: wheat;
+}
+.email{
+    margin-top: 40px;
+    width: 300px;
+    height: 44px;
+}
+.row4{
+    width: 100%;
+    height: 450px;
+}
+.icn1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.visa{
+    color: rgb(12, 12, 110);
+}
+.master{
+    color: rgb(189, 131, 25);
+}
+.discover{
+    color: rgb(128, 126, 126);
+}
+.amex{
+    color: rgb(60, 60, 244);
+}
+.pin{
+    color: rgb(193, 8, 8);
+}
+.bck{
+    width: 100%;
+    height: 400px;
+    color: white;
+    padding-top: 140px;
+    padding-left: 500px;
+}
+
+#pagination {
+    text-align: center;
+    height: 100px;
+}
+
+#pagination a{
+    background-color: rgb(41, 137, 105);
+    border-radius: 4px;
+    padding: 15px 20px;
+    color: white;
+    font-weight: 600;
+}
+.num{
+    width: 40px;
+}
+.form{
+    width: 100%;
+    height: 600px;
+    border: 2px solid black;
+}
+#Products{
+    position: relative;
+}
+.header span{
+    background: orange;
+    position: absolute;
+    width: 2px;
+    border-radius: 50px;
+    left: 88%;
+    top: 14px;
+    color: white;
+}
+
+
